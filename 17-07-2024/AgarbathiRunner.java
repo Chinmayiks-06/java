@@ -17,17 +17,17 @@ System.out.prinln("the fragrance is"+ref.fragrance);
 System.out.prinln("the price is"+ref.price);
 
 Shampoo ref1=new Agarbathi();
-ref.brandName="Om";
-ref.id       =2;
-ref.noOfSticks=100;
-ref.fragrance="Lavender";
-ref.price=100.00;
+ref1.brandName="Om";
+ref1.id       =2;
+ref1.noOfSticks=100;
+ref1.fragrance="Lavender";
+ref1.price=100.00;
 
-System.out.println("the brand name is"+ref.brandName);
-System.out.prinln("the id is"+ref.id);
-System.out.prinln("the no of sticks"+ref.noOfSticks);
-System.out.prinln("the fragrance is"+ref.fragrance);
-System.out.prinln("the price is"+ref.price);
+System.out.println("the brand name is"+ref1.brandName);
+System.out.prinln("the id is"+ref1.id);
+System.out.prinln("the no of sticks"+ref1.noOfSticks);
+System.out.prinln("the fragrance is"+ref1.fragrance);
+System.out.prinln("the price is"+ref1.price);
 
 Shampoo ref2=new Agarbathi();
 ref.brandName="Sai";
