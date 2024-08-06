@@ -1,0 +1,16 @@
+class PenDrive{
+	public static void main(String laptop[]){
+		
+		String brand ="hp";
+		int price=457;
+		String memoryStorageCapacity="128 GB";
+		String hardwareInterface="USB 2.0";
+		String specialFeature="Lightweight";
+		
+		System.out.println("Pen Drive Brand is: "+brand);
+		System.out.println("Pen Drive price is: "+price);
+		System.out.println("Memory Storage Capacity: "+memoryStorageCapacity);
+		System.out.println("Hardware Interface: "+hardwareInterface);
+		System.out.println("Special Feature: "+specialFeature);
+	}
+}
